@@ -3,5 +3,5 @@
 s=b.getElementsByTagName(x)[0];u.src=i;s.parentNode.insertBefore(u,s)}
 (window,document,'ga','script','https://www.google-analytics.com/analytics.js');
 
-ga('create', 'UA-122247573-1', 'pelucafanbou.club');
+ga('create', 'UA-122247573-1', 'pelucafanboy.club');
 ga('send', 'pageview');
