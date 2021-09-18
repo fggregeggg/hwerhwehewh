@@ -54,6 +54,10 @@ $(document).ready(() => {
       name: 'King Halo',
       link: '',
     },
+    {
+      name: 'Monarch',
+      link: '',
+    },
   ];
 
   for (let i in links) {
