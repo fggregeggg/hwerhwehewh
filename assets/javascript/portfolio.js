@@ -10,6 +10,10 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 
 $(document).ready(() => {
   const links = [
+        {
+      name: 'Friends List : ',
+      link: '',
+    },
     {
       name: 'Peluca',
       link: '',
