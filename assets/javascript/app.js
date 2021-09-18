@@ -10,7 +10,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['La verdadera presion de la Internet', 'Hate School Club', 'Not Gae', 'People who were born before their parents', 'Philosophical and Prophets','Cuban Mafia','real g 4 life','fuck the government','cute people'];
+  brandDescription = ['best free cheats','always updated downloads','trusted provider','hope you enjoy our services'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
