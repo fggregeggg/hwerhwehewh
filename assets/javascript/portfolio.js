@@ -80,7 +80,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Peluca', 'elchicofitness', 'Enzity', 'Exel','suffer','david1803','Monks','ItsYouBoy','Juancho1216','Nazaret','EJPALA','King Halo', '=', 'obnoxious.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
+  app.titleChanger(['Peluca', 'elchicofitness', 'Enzity', 'Exel','suffer','david1803','Monks','ItsYouBoy','Juancho1216','Nazaret','EJPALA','King Halo', 'Peluca.club', 'DEAD']);
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 
